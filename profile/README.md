@@ -1,4 +1,4 @@
-# Stego Punk Research Group
+# Stego-Punk Research Group
 
 Website: [https://stego-punk.net/](https://stego-punk.net/)
 
